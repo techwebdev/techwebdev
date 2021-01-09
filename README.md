@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🔭 I’m currently working on Currency Converted
-- 🌱 I’m currently learning Deno
+- 🔭 I’m currently working on Web Development
+- 🌱 I’m currently learning Graphql
 - 👯 I’m looking to collaborate on Github
 - 🤔 I’m looking for help with answer on StackOverflow 
 - 💬 Ask me about any web relted stuff
