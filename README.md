@@ -7,3 +7,4 @@
 - 📫 How to reach me: Twitter
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: i work coding 18 hours  
+<a href="https://app.daily.dev/techwebdev"><img src="https://api.daily.dev/devcards/6004d23edf0949849b8484231efae8c6.png?r=mmg" width="400" alt="techwebdev's Dev Card"/></a>
