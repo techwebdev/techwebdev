@@ -1,5 +1,5 @@
 ### Hi there 👋
-<a href="https://app.daily.dev/techwebdev"><img src="https://api.daily.dev/devcards/6004d23edf0949849b8484231efae8c6.png?r=mmg" width="400" alt="techwebdev's Dev Card"/></a>
+<a href="https://app.daily.dev/techwebdev"><img src="https://api.daily.dev/devcards/6004d23edf0949849b8484231efae8c6.png?r=mmg" width="400" style="position:absolute;right:0;" alt="techwebdev's Dev Card"/></a>
 - 🔭 I’m currently working on Web Development
 - 🌱 I’m currently learning Graphql
 - 👯 I’m looking to collaborate on Github
